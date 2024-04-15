@@ -53,10 +53,10 @@
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">Requirements analysis - test cases - Mobile Testing - API Testing - UI Testing - smoke testing - Regression testing - Agile - Console - JSON - DevTools.</p>
 
 ###
 
-<p align="left">Hello World!!</p>
+<p align="left">Academic training<br>TRIPLETEN: Tripleten's QA engineer program is a five-month course. It covers requirements analysis, test cases, JIRA, API, POSTMAN, ANDROID, STUDIO, SQL, PYTHON, AUTOMATION, and involves the completion of 9 projects based on real-world software testing.<br><br>ALIAT UNIVERSITY: computer systems engineering</p>
 
 ###
