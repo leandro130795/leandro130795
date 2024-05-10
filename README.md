@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋! My name is Jose Leandro Hernandez Gongora<br><br>I am a QA Engineer with a solid knowledge of quality assurance principles and processes in software development (requirements analysis, test designs, test cases, API, SQL, Jira) as well as mobile applications ( Android Studio).
 I have gained a solid understanding of the basic principles of software engineering and quality assurance practices.
-My meticulous approach, my ability to analyze user requirements in detail, and my ability to identify and report errors have provided me with a solid foundation to enter the field of software testing. With a thorough, detail-oriented approach, I strive to ensure delivering high quality products that meet the most demanding standards..</h2>
+My meticulous approach, my ability to analyze user requirements in detail, and my ability to identify and report errors have provided me with a solid foundation to enter the field of software testing. With a thorough, detail-oriented approach, I strive to ensure delivering high quality products that meet the most demanding standards.</h2>
 
 ###
 
